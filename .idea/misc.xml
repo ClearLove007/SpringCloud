@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/cloud-client/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/consumer-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/server-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-config/pom.xml" />
       </list>
     </option>
   </component>
