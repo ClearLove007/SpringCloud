@@ -22,6 +22,7 @@
         <module>cloud-client</module>
         <module>cloud-consumer</module>
         <module>consumer-feign</module>
+        <module>server-zuul</module>
     </modules>
 
     <properties>
