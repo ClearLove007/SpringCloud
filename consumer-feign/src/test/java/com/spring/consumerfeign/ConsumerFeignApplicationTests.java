@@ -1,4 +1,4 @@
-package com.soring.consumerfeign;
+package com.spring.consumerfeign;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -30,11 +30,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Finchley.RELEASE</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -62,13 +57,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568272735085" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-client/src/main/resources/mapper" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.spring.consumerfeign.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\WorkSpace\springCloud\cloud-client\src\main\resources\mapper" />
+      <recent name="E:\idea\WorkSpace\springCloud\consumer-feign\src\main\resources\mapper" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,17 +88,9 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.ConsumerFeignApplication">
-    <configuration name="CloudClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+    <configuration name="CloudClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-client" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.cloudclient.CloudClientApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CloudConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="cloud-config" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.cloudconfig.CloudConfigApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,17 +102,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CloudServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="CloudServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="cloud-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.cloudserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.cloudserver.CloudServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+    <configuration name="ConsumerFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="consumer-feign" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.soring.consumerfeign.ConsumerFeignApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.consumerfeign.ConsumerFeignApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,14 +129,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Spring Boot.CloudClientApplication" />
-      <item itemvalue="Spring Boot.CloudServerApplication" />
-      <item itemvalue="Spring Boot.CloudConsumerApplication" />
-      <item itemvalue="Spring Boot.ConsumerFeignApplication" />
-      <item itemvalue="Spring Boot.ServerZuulApplication" />
-      <item itemvalue="Spring Boot.CloudConfigApplication" />
-    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -148,7 +142,8 @@
       <updated>1568249162939</updated>
       <workItem from="1568249176335" duration="427000" />
       <workItem from="1568249649682" duration="19980000" />
-      <workItem from="1568355677281" duration="6519000" />
+      <workItem from="1568355677281" duration="10306000" />
+      <workItem from="1568367987440" duration="6422000" />
     </task>
     <servers />
   </component>
@@ -160,59 +155,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
