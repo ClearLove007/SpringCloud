@@ -9,6 +9,7 @@
         <module name="cloud-client" />
         <module name="cloud-consumer" />
         <module name="cloud-server" />
+        <module name="cloudconfig" />
         <module name="consumer-feign" />
         <module name="server-zuul" />
       </profile>
@@ -25,6 +26,7 @@
       <module name="cloud-config" options="-parameters" />
       <module name="cloud-consumer" options="-parameters" />
       <module name="cloud-server" options="-parameters" />
+      <module name="cloudconfig" options="-parameters" />
       <module name="consumer-feign" options="-parameters" />
       <module name="server-zuul" options="-parameters" />
     </option>
