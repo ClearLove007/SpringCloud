@@ -1,2 +1,16 @@
 service-zuul/HELP.md
 .idea/workspace.xml
+.idea/modules.xml
+admin/.gitignore
+admin/mvnw.cmd
+admin/mvnw
+admin/.mvn/wrapper/maven-wrapper.properties
+admin/.mvn/wrapper/MavenWrapperDownloader.java
+admin/src/test/java/com/spring/admin/AdminApplicationTests.java
+cloud-server2/mvnw.cmd
+cloud-server2/mvnw
+cloud-server2/.mvn/wrapper/maven-wrapper.properties
+cloud-server2/.mvn/wrapper/maven-wrapper.jar
+cloud-server2/.mvn/wrapper/MavenWrapperDownloader.java
+cloud-server2/.gitignore
+cloud-server2/pom.xml
